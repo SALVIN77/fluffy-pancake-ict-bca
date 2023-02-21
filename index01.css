@@ -154,7 +154,8 @@ button{
     display: inline-block;
 }
 .footer{
-    border: 1px solid red;
-    width: 20%;
-    height: 100px;
+    text-align: center;
+    clear: both;
+    color: white;
+    background: black;
 }
